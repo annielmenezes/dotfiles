@@ -14,7 +14,7 @@ Make this steps to install softwares and tools in your OS
    chmod +x bootstrap.sh
    # Run bootstrap.sh as sudo to install softwares
    sudo ./bootstrap.sh
-    ```
+```
 
 ## Dotfile Content
 
