@@ -40,7 +40,7 @@ Make this steps to install softwares and tools in your OS
   * [`Docker`](http://docker.com)
     Docker allows you to package an application with all of its dependencies into
     a standardized unit for software development.
-    * [`Azk`](http://www.azk.io/)
+  * [`Azk`](http://www.azk.io/)
     Use azk and easily orchestrate development environments on your own machine
 * Text Editor
   * [`Nuclide`](http://www.nuclide.io)
