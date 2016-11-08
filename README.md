@@ -1,5 +1,6 @@
 # My dotfiles
 My personal configuration for front-end development using Ubuntu
+__Note:__ this repository if 64bits only
 
 ## Quick start
 
@@ -35,24 +36,24 @@ Make this steps to install softwares and tools in your OS
   * [`Vivaldi`](https://vivaldi.com/)
     An advanced browser made with the power user in mind. Finally you can surf your way.
 * Sysadmin Tools:
-  * [`Vagrant`](http://vagrantup.com)
-    Create and configure lightweight, reproducible, and portable development environments.
   * [`Docker`](http://docker.com)
     Docker allows you to package an application with all of its dependencies into
     a standardized unit for software development.
+    * [`Azk`](http://www.azk.io/)
+    Use azk and easily orchestrate development environments on your own machine
 * Text Editor
-  * [`Sublime Text`](http://www.sublimetext.com/3)
-    Sublime Text is a sophisticated text editor for code, markup and prose.
+  * [`Nuclide`](http://www.nuclide.io)
+  Nuclide is built as a single package on top of Atom to provide hackability and
+  the support of an active community.
 * Remote Access
   * [`Dropbox`](https://www.dropbox.com/)
     Dropbox keeps your files safe, synced, and easy to share.
 
 ### Developer Tools
 
-* [`io.js`](https://iojs.org/)
-  io.js is a JavaScript platform built on Chrome's V8 runtime.
-* [`Azk`](http://www.azk.io/)
-  Use azk and easily orchestrate development environments on your own machine
+* [`nvm`](https://github.com/creationix/nvm)
+  Nvm is a Node Version Manager that allow us to install install many versions of
+  node along side.
 
 
 ## Contributing
