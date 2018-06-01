@@ -29,7 +29,7 @@ fi
 
 # Note the new setup script name for nvm
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-nvm install v6
+nvm install --lts
 
 # Install Oh-my-zsh
 apt-get install -y zsh
