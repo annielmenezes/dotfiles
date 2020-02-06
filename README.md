@@ -1,7 +1,7 @@
 # My dotfiles
 My personal configuration for front-end development using Ubuntu
 
-**Note:** this repository if 64bits only
+**Note:** this repository is 64bits only
 
 ## Quick start
 
