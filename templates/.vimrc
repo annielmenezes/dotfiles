@@ -61,3 +61,4 @@ filetype plugin indent on    " required
 nmap <F6> :NERDTreeToggle<CR>
 
 set nu
+set shell=/bin/zsh
