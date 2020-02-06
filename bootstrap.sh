@@ -18,6 +18,8 @@ apt install -y git build-essential libssl-dev
 # Install Oh-my-zsh
 apt install -y zsh
 curl -L http://install.ohmyz.sh | sh
+git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"
+ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
 mv ~/.zshrc ~/.zshrc.default
 cp templates/.zshrc ~/
 
